@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Backend
 - 👯 I’m looking to collaborate on BBS-OneView
 - 💬 Ask me about Javascript, React.js, Python, Bash
-- 📫 How to reach me: [Twitter](https://twitter.com/mabhishek7081)
+- 📫 How to reach me: [Twitter](https://twitter.com/actuallyabhish)
 <br />
 <span>Readme credit -: @Abdallah-Moh
 
