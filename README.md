@@ -15,13 +15,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on BBS-OneView
-- 🌱 I’m currently learning Backend
-- 👯 I’m looking to collaborate on BBS-OneView
-- 💬 Ask me about Javascript, React.js, Python, Bash
+- 🔭 I’m currently working on [Viewcord](https://github.com/actuallyabhi/viewcord-web)
 - 📫 How to reach me: [Twitter](https://twitter.com/actuallyabhish)
-<br />
-<span>Readme credit -: @Abdallah-Moh
+
 
 
 
