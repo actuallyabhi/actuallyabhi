@@ -15,8 +15,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Viewcord](https://github.com/actuallyabhi/viewcord-web)
-- 📫 How to reach me: [Twitter](https://twitter.com/actuallyabhish)
+- 🔭 I’m currently working on [Analytics-GPT](https://github.com/actuallyabhi/analytics-gpt)
+- 📫 How to reach me: [email](mailto:pingabhishek@proton.me)
 
 
 
