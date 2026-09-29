@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abhishek 👋</h1>
-<h3 align="center">Backend & AI Engineer — Python · Django · LLM Agents · Data Engineering</h3>
+<h3 align="center">Backend & AI Engineer</h3>
 
 <p align="center">
   <a href="mailto:pingabhishek@proton.me">
