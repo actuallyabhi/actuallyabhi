@@ -19,8 +19,8 @@
 
 I build backend systems and AI agents that go from "working demo" to "running in production." Most of my recent work sits at the intersection of **LLM agents, document processing, and automation** — RAG pipelines, LangGraph agents, and data ingestion platforms that other teams rely on daily.
 
-- 🔭 Currently building document-processing and e-invoicing systems (ZUGFeRD, XRechnung, EN 16931, DATEV) at **DeepLogic AI**
-- 🤖 Recent work: a LangGraph voice-agent pipeline handling live phone conversations, and a marketing automation platform tying together LinkedIn, Lemlist, Pipedrive, and Teams
+- 🔭 Currently building document-processing and e-invoicing systems at **DeepLogic AI**
+- 🤖 Recent work: a LangGraph voice-agent pipeline handling live phone conversation.
 - 🧠 Also shipped: hybrid RAG agents, LLM-based document verification, and text-to-SQL agents
 - 🛠️ Tools I reach for daily: Python, Django, FastAPI, LangChain/LangGraph, Docker, and Claude Code
 - 🌱 Learning German (aiming for B1) and picking up Kubernetes fundamentals
